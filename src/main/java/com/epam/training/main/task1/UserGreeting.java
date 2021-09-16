@@ -1,4 +1,4 @@
-package com.epam.training.main;
+package com.epam.training.main.task1;
 
 import java.util.Scanner;
 
